@@ -40,7 +40,7 @@ input, select, button {
   display: flex;
 }
 
-.personal_content, .account_content, .contact_content, .subscription_content, .submit_content, .gender_content{
+.personal_content, .account_content, .contact_content, .subscription_content, .submit_content {
   margin-top: 50px;
 }
 
